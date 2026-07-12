@@ -18,9 +18,9 @@ A feature-rich scientific calculator made in Python, perfect for Secondary/High 
 
 ## Installation
 ### Windows version
-1. Download ScientificCalc.exe from releases
-2. Open ScientificCalc.exe
+1. Download SciCalc.exe from releases
+2. Open SciCalc.exe
 ### Raw Python file
 1. Install Python at python.org
-2. Download ScientificCalc.py
-3. Open ScientificCalc.py
+2. Download SciCalc.py
+3. Open SciCalc.py
