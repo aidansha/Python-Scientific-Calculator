@@ -14,7 +14,7 @@ A feature-rich scientific calculator made in Python, perfect for Secondary/High 
 ### Windows version (.exe)
 - A computer running Windows, preferably Windows 10 or later
 ### Raw Python file (.py)
-- Python 3.6+ (3.13 reccomended)
+- Python 3.8+ (3.13 reccomended)
 
 ## Installation
 ### Windows version
