@@ -47,7 +47,7 @@ def floatinput(prompt, minimum = None, maximum = None, notallowed = None):
             continue
         return variable
 ## Splash Screen
-print("Scientific Calculator for Python 3.6+ v1.0.1")
+print("Scientific Calculator for Python 3.8+ v1.0.1")
 time.sleep(1.5)
 clearscreen()
 
